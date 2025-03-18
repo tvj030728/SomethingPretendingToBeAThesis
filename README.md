@@ -12,4 +12,4 @@ If you have used the idea, please send us an email: me@ivl.is
 # Somethings / 무언가들
 
 - A Study on the Structural Isomorphism between Human Memory Systems and Computer Memory Architecture
-- 인간 기억 시스템과 컴퓨터의 저장 방식의 관계성에 관한 연구 [EN](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20English.md) / [KR](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20Korean.md)
+ 인간 기억 시스템과 컴퓨터의 저장 방식의 관계성에 관한 연구 [EN](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20English.md) / [KR](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20Korean.md)
