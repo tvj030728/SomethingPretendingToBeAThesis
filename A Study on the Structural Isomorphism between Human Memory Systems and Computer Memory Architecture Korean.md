@@ -1,6 +1,7 @@
 # 인간 기억 시스템과 컴퓨터의 저장 방식의 관계성에 관한 연구
 
 #### A Study on the Structural Isomorphism between Human Memory Systems and Computer Memory Architecture
+[EN](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20English.md) / [KR](https://github.com/tvj030728/SomethingPretendingToBeAThesis/blob/main/A%20Study%20on%20the%20Structural%20Isomorphism%20between%20Human%20Memory%20Systems%20and%20Computer%20Memory%20Architecture%20Korean.md)
 
 저자 : ivLis ( me@ivl.is )
 
